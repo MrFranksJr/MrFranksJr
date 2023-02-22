@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hi, I'm Franky Blondeel</h1>
-<h3 align="left">Always learning, finding new and better ways to do things</h3>
+<h3 align="left">Always learning, finding new and better ways to get things done</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrfranksjr&label=Profile%20views&color=0e75b6&style=flat" alt="mrfranksjr" /> </p>
 
