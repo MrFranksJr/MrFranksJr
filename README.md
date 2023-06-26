@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrfranksjr&label=Profile%20views&color=0e75b6&style=flat" alt="mrfranksjr" /> </p>
 
-- 🔭 I’m currently working at Esko [(esko.com)]((esko.com))
+- 🔭 I’m currently working at Esko as an R& Application Specialist [(esko.com)]((esko.com))
 
-- 🌱 I’m currently learning **JavaScript, ES6 and moving to React and TS in the future**
+- 🌱 I’m currently learning **React, and modern JS in general.** And very possibly going **full stack with Java in the near future too!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrFranksJr](https://github.com/MrFranksJr)
 
