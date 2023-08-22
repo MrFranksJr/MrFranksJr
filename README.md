@@ -9,13 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrFranksJr](https://github.com/MrFranksJr)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/frankyjr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/frankyjr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin Franky" height="30" width="40" /></a>
-</p>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -33,4 +26,10 @@
   <img src="https://github.com/MrFranksJr/MrFranksJr/blob/main/assets/MrFranksJr/illustrator-line.svg" alt="illustrator" width="40" height="40"/></a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://github.com/MrFranksJr/MrFranksJr/blob/main/assets/MrFranksJr/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/frankyjr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/frankyjr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin Franky" height="30" width="40" /></a>
 </p>
