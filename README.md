@@ -25,12 +25,12 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://github.com/MrFranksJr/MrFranksJr/blob/main/assets/MrFranksJr/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/MrFranksJr/MrFranksJr/blob/main/assets/MrFranksJr/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <img src="https://github.com/MrFranksJr/MrFranksJr/blob/main/assets/MrFranksJr/react-original.svg" alt="react" width="40" height="40"/></a>
 </p>
 
 <p align="left">
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-  <img src="https://github.com/MrFranksJr/MrFranksJr/blob/main/assets/MrFranksJr/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
+  <img src="https://github.com/MrFranksJr/MrFranksJr/blob/main/assets/MrFranksJr/illustrator-line.svg" alt="illustrator" width="40" height="40"/></a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://github.com/MrFranksJr/MrFranksJr/blob/main/assets/MrFranksJr/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
