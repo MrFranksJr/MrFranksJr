@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at Esko as an R&D Application Specialist [(esko.com)]((esko.com))
 
-- 🌱 I’m currently learning **React and modern JS in general.** Very possibly going **full stack with Java in the near future!**
+- 🌱 I’m currently learning **React and modern JS in general.** My long-term goal is to go **full stack with Java in the future!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MrFranksJr](https://github.com/MrFranksJr)
 
