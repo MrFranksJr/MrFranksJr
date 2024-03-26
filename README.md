@@ -15,10 +15,13 @@
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/MrFranksJr/MrFranksJr/blob/main/assets/MrFranksJr/html5-original-wordmark.svg" alt="html5 icon" width="40" height="40"/></a>
+  <span width="20px"></span>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img src="https://github.com/MrFranksJr/MrFranksJr/blob/main/assets/MrFranksJr/css3-original-wordmark.svg" alt="css3 icon" width="40" height="40"/></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://github.com/MrFranksJr/MrFranksJr/blob/main/assets/MrFranksJr/javascript-original.svg" alt="javascript icon" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<img src="https://github.com/MrFranksJr/MrFranksJr/blob/main/assets/MrFranksJr/ts.svg" alt="typescript icon" width="40" height="40"/></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer">
   <img src="https://github.com/MrFranksJr/MrFranksJr/blob/main/assets/MrFranksJr/react-original.svg" alt="react icon" width="40" height="40"/></a>
 <a href="https://dev.java/" target="_blank" rel="noreferrer">
