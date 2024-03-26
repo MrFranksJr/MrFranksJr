@@ -9,13 +9,13 @@
 
 - 🖌️ With my background in graphics and design, I aim to not only make my applications run well, but to also make them look good.
 
-- 💼 All of my projects are available here at [https://github.com/MrFranksJr](https://github.com/MrFranksJr)
+- 💼 All of my projects are available here at [https://github.com/MrFranksJr](https://github.com/MrFranksJr). I tend to keep a diary or summary for every project, although that does not always work out. Enjoy!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/MrFranksJr/MrFranksJr/blob/main/assets/MrFranksJr/html5-original-wordmark.svg" alt="html5 icon" width="40" height="40"/></a>
-<span width="20"></span>
+<pre>   </pre>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img src="https://github.com/MrFranksJr/MrFranksJr/blob/main/assets/MrFranksJr/css3-original-wordmark.svg" alt="css3 icon" width="40" height="40"/></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
