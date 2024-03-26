@@ -1,7 +1,7 @@
 <h1 align="left">👋  Hi, I'm Franky Blondeel</h1>
 <h3 align="left">Always learning, finding new and better ways to get things done</h3>
 
-- 👨‍💻 I'm currently working at Triple D as a Software Engineer [(http://www.tripled.io)]((http://www.tripled.io))
+- 👨‍💻 I'm currently working at Triple D as a Software Engineer [http://www.tripled.io](http://www.tripled.io)
 
 - 🌱 I'm currently taking a deeper dive into **React and TypeScript.** 
 
